@@ -5,6 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shingo-kumada&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shingo-kumada&theme=default)
 
 
 
