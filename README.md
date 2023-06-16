@@ -4,7 +4,6 @@
 </p>
 
 <img alt="github profile" width="700px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shingo-kumada&theme=onedark" />
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shingo-kumada&theme=onedark)
 
 
 
