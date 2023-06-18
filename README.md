@@ -7,7 +7,7 @@
 </p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/shingo_kumada)](https://twitter.com/shingo_kumada)
-[![Qiita](https://img.shields.io/badge/Qiita_@shingo--kumada)](https://qiita.com/shingo-kumada)
+[![Static Badge](https://img.shields.io/badge/:badgeContent)](https://qiita.com/shingo-kumada)
 
 
 
