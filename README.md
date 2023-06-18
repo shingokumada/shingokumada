@@ -6,8 +6,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=shingo-kumada&count_private=true&show_icons=true&show_icons=true&theme=onedark&border_color=000000"/>
 </p>
 
-[![](https://img.shields.io/badge/-@shingo_kumada?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/shingo_kumada)
-
-[![Qiita](https://img.shields.io/badge/Qiita-@shingo-kumada?style=flat-square&labelColor=55c500)](https://qiita.com/shingo-kumada)
+![Twitter Follow](https://img.shields.io/twitter/follow/shingo_kumada)
+[![Qiita](https://img.shields.io/badge/Qiita-@shingo-kumada?style=flat-square&labelColor=55c500&)](https://qiita.com/shingo-kumada)
 
 
