@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/twitter/follow/shingo_kumada" />
 </a>
 
-<a href="https://twitter.com/shingo_kumada">
+<a href="https://qiita.com/shingo-kumada">
   <img src="https://img.shields.io/badge/-Follow_@shingo_--_kumada-FFFFFF.svg?logo=qiita&style=flat">
 </a>
 
