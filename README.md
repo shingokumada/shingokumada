@@ -7,6 +7,10 @@
 </p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/shingo_kumada)](https://twitter.com/shingo_kumada)
+<a href="https://twitter.com/shingo_kumada">ff</a>
+<img src="https://img.shields.io/badge/-HTML5-F9DC3E.svg?logo=qiita&style=flat">
+<img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
 
 
 
