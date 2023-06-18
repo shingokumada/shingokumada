@@ -14,12 +14,5 @@
   <img src="https://img.shields.io/badge/-Follow_@shingo_--_kumada-FFFFFF.svg?logo=qiita&style=flat">
 </a>
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/shingo-kumada/posts.svg)](http://qiita.com/shingo-kumada)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/shingo-kumada/contributions.svg)](http://qiita.com/shingo-kumada)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/shingo-kumada/followers.svg)](http://qiita.com/shingo-kumada)
-
-<img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
-<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=for-the-badge">
-
 
 
