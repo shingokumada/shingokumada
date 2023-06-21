@@ -11,8 +11,8 @@
   <a href="https://twitter.com/shingo_kumada" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shingo_kumada" height="30" width="40" />
   </a>
-  <a href="/https://qiita.com/shingo-kumada" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/qiita.svg" alt="https://qiita.com/shingo-kumada" height="30" width="40" />
+  <a href="https://qiita.com/shingo-kumada" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Qiita.svg" alt="shingo-kumada" height="30" width="40" />
   </a>
 </p>
 
