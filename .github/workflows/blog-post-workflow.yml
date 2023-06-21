@@ -10,5 +10,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "4"
+          comment_tag_name: "Qiita"
           feed_list: "https://qiita.com/shingo-kumada"
+          template: "<tr><td>$title</td><td>$url</td></tr>"
