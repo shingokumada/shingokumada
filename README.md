@@ -1,5 +1,8 @@
 ## **Hi there** <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
 
+- 🔭 &nbsp;I'm studying to become an engineer. :wink:
+- 🌱 &nbsp;I’m currently studying Python and Javascript
+
 ## **Latest Blog Posts:**
 
 <!-- BLOG-POST-LIST:START -->
