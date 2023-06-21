@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/shingo_kumada" target="blank"><img src="https://img.shields.io/twitter/follow/shingo_kumada?logo=twitter&style=for-the-badge" alt="shingo_kumada" /></a> </p>
 
-- 📫 How to reach me **19km.sn96@gmail.com**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
