@@ -14,10 +14,7 @@
   </a>
 </p>
 
-📊 &nbsp;**This week I spent my time on**
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shingo-kumada&size_weight=0.5&count_weight=0.5)
 
 ## **Languages and Tools:**
 
