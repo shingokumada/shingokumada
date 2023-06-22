@@ -15,7 +15,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: shingo-kumada/shingo-kumada@master
+      - uses: https://github.com/athul/waka-readme.git@master
         with:
           API_BASE_URL: https://wakatime.com/api
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
