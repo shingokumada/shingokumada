@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<figure><embed src="https://wakatime.com/share/@shingo/ce32ceaf-74e9-4d31-ad5b-12e8e1bbadf8.svg"></embed></figure>
+<figure><img src="https://wakatime.com/share/@shingo/ce32ceaf-74e9-4d31-ad5b-12e8e1bbadf8.svg"></embed></figure>
 
 📊 &nbsp;**This week I spent my time on**
 
