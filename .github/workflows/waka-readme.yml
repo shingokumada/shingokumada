@@ -12,10 +12,10 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Waka - Readme
     runs-on: ubuntu-latest
     steps:
-      - uses: https://github.com/athul/waka-readme.git@master
+      - uses: athul/waka-readme@v0.2.1
         with:
           API_BASE_URL: https://wakatime.com/api
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
