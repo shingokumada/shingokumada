@@ -3,11 +3,6 @@
 - 🔭 &nbsp;**I'm studying to become an engineer from October 2022** :wink:
 - 🌱 &nbsp;**I'm currently studying Python and Javascript**
 
-## **Latest Blog Posts:**
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## **Connect with me:**
 
 <p align="left">
