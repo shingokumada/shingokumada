@@ -14,8 +14,6 @@
   </a>
 </p>
 
-<figure><embed src="https://wakatime.com/share/@shingo/ada12374-167c-4e62-9f74-ddf85a697762.svg"></embed></figure>
-
 📊 &nbsp;**This week I spent my time on**
 
 <!--START_SECTION:waka-->
