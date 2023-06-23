@@ -73,5 +73,5 @@
   </a>
 </p>
 
-[![Harlok's wakatime stats](https://github-readme-stats-nu-ocher.vercel.api/api/wakatime?username=shingo)](https://github.com/shingo-kumada/github-readme-stats)
+[![Shingo's wakatime stats](https://github-readme-stats-nu-ocher.vercel.api/api/wakatime?username=shingo)](https://github.com/shingo-kumada/github-readme-stats)
 
