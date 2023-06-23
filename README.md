@@ -82,5 +82,5 @@
   </a>
 </p>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shingo)](https://github.com/shingo-kumada/github-readme-stats)
+[![Shingo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shingo)](https://github.com/shingo-kumada/github-readme-stats)
 
