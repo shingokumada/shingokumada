@@ -73,12 +73,5 @@
   </a>
 </p>
 
-<a href="https://github.com/shingo-kumada/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=shingo-kumada" />
-</a>
-<a href="https://github.com/shingo-kumada/github-readme-stats">
-  <img height=150 width=150 align="center" src="https://github-readme-stats-nu-ocher.vercel.app/api/wakatime?username=shingo" />
-</a>
-
-[![Shingo's wakatime stats](https://github-readme-stats-nu-ochre.vercel.app/api/wakatime?username=shingo)](https://github.com/shingo-kumada/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats-nu-ocher.vercel.api/api/wakatime?username=shingo)](https://github.com/shingo-kumada/github-readme-stats)
 
