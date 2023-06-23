@@ -12,7 +12,7 @@
   <a href="https://qiita.com/shingo-kumada" target="blank">
     <img align="center" src="images/qiita.png" alt="shingo-kumada" height="30" width="35" />
   </a>
-  <a href="https://discord.gg/shingo4588 " target="blank">
+  <a href="https://discord.gg/shingo4588" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg " alt="shingo4588" height="40" width="40" />
   </a>
 </p>
