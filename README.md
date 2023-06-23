@@ -78,7 +78,7 @@
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=shingo-kumada" />
   </a>
   <a href="https://github.com/shingo-kumada/convoychat">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shingo-kumada&layout=compact&langs_count=8&card_width=320" />
+    <img height=150 align="center" src="github-readme-stats-nu-ochre.vercel.app/api/wakatime?username=shingo" />
   </a>
 </p>
 
