@@ -77,7 +77,7 @@
   <a href="https://github.com/shingo-kumada/github-readme-stats">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=shingo-kumada" />
   </a>
-  <a href="https://github.com/shingo-kumada/convoychat">
+  <a href="https://github.com/shingo-kumada/github-readme-stats">
     <img height=150 align="center" src="github-readme-stats-nu-ochre.vercel.app/api/wakatime?username=shingo" />
   </a>
 </p>
