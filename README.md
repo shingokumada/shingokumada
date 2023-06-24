@@ -4,7 +4,7 @@
 - 🌱 &nbsp;**I'm currently studying Python and Javascript**
 
 <p>
-  <img src="/github-metrics.svg" alt="Metrics" width="50%">
+  <img src="/github-metrics.svg" alt="Metrics" width="50%" />
   <a href="https://github.com/shingo-kumada/github-readme-stats" width="40%">
     <img src="https://github-readme-stats-git-master-shingo-kumada.vercel.app/api/wakatime?username=shingo&theme=vue-dark" width="40%" />
   </a>
