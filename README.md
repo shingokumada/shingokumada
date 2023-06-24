@@ -84,6 +84,5 @@
   </p>
 </div>
 
-
 ![Snake animation](https://github.com/shingo-kumada/shingo-kumada/blob/output/github-contribution-grid-snake.svg)
 
