@@ -26,12 +26,6 @@ jobs:
 
           # Options
           user: shingo-kumada
-          template: terminal
-          base: header, activity, community
-          base_indepth: yes
-          base_skip: yes
-          config_display: columns
-          config_octicon: yes
+          template: classic
+          base: header, activity, community, repositories, metadata
           config_timezone: Etc/GMT-9
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
