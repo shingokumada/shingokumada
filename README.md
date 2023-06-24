@@ -9,6 +9,7 @@
     <img src="https://github-readme-stats-git-master-shingo-kumada.vercel.app/api/wakatime?username=shingo&theme=vue-dark" width="40%" />
   </a>
 </p>
+
 ## **Connect with me:**
 
 <p align="left">
