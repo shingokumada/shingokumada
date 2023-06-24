@@ -13,7 +13,7 @@ jobs:
       # Snake Animation
       - uses: shingo-kumada/snk/svg-only@v2
         with:
-          github_user_name: ${{ github.shingo-kumada }}
+          github_user_name: shingo-kumada
           
           outputs: |
             dist/github-snake.svg
