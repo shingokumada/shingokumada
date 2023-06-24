@@ -3,8 +3,7 @@
 - 🔭 &nbsp;**I'm studying to become an engineer from October 2022** :wink:
 - 🌱 &nbsp;**I'm currently studying Python and Javascript**
 
-<p align="left">
-  <img src="/github-metrics.svg" alt="Metrics" width="50%" border="solid, 20px, #FFFFFF">
+  <img src="https://metrics.lecoq.io/shingo-kumadatemplate=terminal&base.indepth=true&base.skip=true&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=true&isocalendar=false&isocalendar.duration=half-year&config.timezone=Etc%2FGMT-9&config.octicon=true&config.display=columns">
   <a href="https://github.com/shingo-kumada/github-readme-stats" width="50%">
     <img src="https://github-readme-stats-git-master-shingo-kumada.vercel.app/api/wakatime?username=shingo&theme=vue-dark" width="40%" />
   </a>
