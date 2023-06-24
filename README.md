@@ -74,3 +74,7 @@
 </p>
 
 <img src="/github-metrics.svg" alt="Metrics" width="50%">
+
+<a href="https://github.com/shingo-kumada/github-readme-stats">
+  <img src="https://github-readme-stats-git-master-shingo-kumada.vercel.app/api/wakatime?username=shingo" />
+</a>
