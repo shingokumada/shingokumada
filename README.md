@@ -1,4 +1,4 @@
-## **Hi there** <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
+## **Hi there** <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a>
 
 - 🔭 &nbsp;**I'm studying to become an engineer from October 2022** :wink:
 - 🌱 &nbsp;**I'm currently studying Python and Javascript**
