@@ -4,12 +4,13 @@ on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
   workflow_dispatch:
+  
+permissions: read-all|write-all
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
-    permissions: read-all|write-all
     steps:
       # Snake Animation
       - uses: Platane/snk@master
