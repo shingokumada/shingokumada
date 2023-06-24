@@ -3,6 +3,13 @@
 - 🔭 &nbsp;**I'm studying to become an engineer from October 2022** :wink:
 - 🌱 &nbsp;**I'm currently studying Python and Javascript**
 
+<p align="left">
+  <img src="/github-metrics.svg" alt="Metrics" width="50%">
+  <a href="https://github.com/shingo-kumada/github-readme-stats" width="30%">
+    <img src="https://github-readme-stats-git-master-shingo-kumada.vercel.app/api/wakatime?username=shingo&layout=pie" />
+  </a>
+</p>
+
 ## **Connect with me:**
 
 <p align="left">
@@ -70,13 +77,6 @@
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="left">
-  <img src="/github-metrics.svg" alt="Metrics" width="50%">
-  <a href="https://github.com/shingo-kumada/github-readme-stats" width="30%">
-    <img src="https://github-readme-stats-git-master-shingo-kumada.vercel.app/api/wakatime?username=shingo&layout=pie" />
   </a>
 </p>
 
