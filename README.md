@@ -89,19 +89,3 @@
 
 ![Snake animation](https://github.com/shingo-kumada/shingo-kumada/blob/output/github-contribution-grid-snake.svg)
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 21 June 2023 - To: 27 June 2023
-
-Total Time: 2 hrs 27 mins
-
-Markdown     1 hr 29 mins    >>>>>>>>>>>>>>>----------   60.49 %
-YAML         36 mins         >>>>>>-------------------   24.44 %
-Python       19 mins         >>>----------------------   12.91 %
-Git Config   3 mins          >------------------------   02.11 %
-Docker       0 secs          -------------------------   00.05 %
-```
-
-<!--END_SECTION:waka-->
-
