@@ -90,5 +90,7 @@
 ![Snake animation](https://github.com/shingo-kumada/shingo-kumada/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
+```txt
+```
 <!--END_SECTION:waka-->
 
