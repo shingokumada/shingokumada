@@ -10,7 +10,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: shingo-kumada/waka-readme@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
@@ -19,4 +19,3 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 10
-          REPOSITORY: <shingo-kumada/shingo-kumada>
