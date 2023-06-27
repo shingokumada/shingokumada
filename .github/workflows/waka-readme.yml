@@ -19,3 +19,4 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 10
+          REPOSITORY: <shingo-kumada/shingo-kumada>
