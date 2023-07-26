@@ -13,17 +13,15 @@
 ## **Connect with me:**
 
 <div>
-  <p align="left">
     <a href="https://twitter.com/shingo_kumada" target="blank">
-      <img align="center" src="./images/icons8-twitter.gif" alt="shingo_kumada" height="30" width="30" />
+      <img align="center" src="./images/icons8-twitter.gif" alt="shingo_kumada" height="40" width="40" />
     </a>
     <a href="https://qiita.com/shingo-kumada" target="blank">
-      <img align="center" src="images/qiita.png" alt="shingo-kumada" height="32" width="32" />
+      <img align="center" src="images/qiita.png" alt="shingo-kumada" height="40" width="40" />
     </a>
     <a href="https://ja.stackoverflow.com/users/58839/shingokumada" target="blank">
-      <img align="center" src="./images/icons8-stack-overflow.svg" alt="58839" height="30" width="40" />
+      <img align="center" src="./images/icons8-stack-overflow.svg" alt="58839" height="40" width="40" />
     </a>
-  </p>
 </div>
 
 ## **Languages and Tools:**
