@@ -77,4 +77,4 @@
   </p>
 </div>
 
-<a href="https://icons8.jp/"><img width="5%" src="./images/icons8.svg" /></a>**Icons by Icons8**
+<a href="https://icons8.jp/"><img width="5%" src="./images/icons8.svg" /></a>**[Icons by Icons8](https://icons8.jp/)**
