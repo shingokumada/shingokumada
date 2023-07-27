@@ -15,7 +15,7 @@
 <div>
   <p align="left">
     <a href="https://twitter.com/shingo_kumada" target="blank">
-      <img align="center" src="./images/icons8-twitter.gif" alt="shingo_kumada" height="30" width="30" />
+      <img align="center" src="./images/icons8-twitterx.svg" alt="shingo_kumada" height="30" width="30" />
     </a>
     <a href="https://qiita.com/shingo-kumada" target="blank">
       <img align="center" src="images/qiita.png" alt="shingo-kumada" height="32" width="32" />
