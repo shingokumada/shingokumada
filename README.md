@@ -3,7 +3,7 @@
 - 🔭 &nbsp;**I'm studying to become an engineer from October 2022** :wink:
 - 🌱 &nbsp;**I'm currently studying Python**
 
-## **Connect with me:**
+### **Connect with me :**
 
 <div>
     <a href="https://twitter.com/shingo_kumada" target="blank">
@@ -17,7 +17,7 @@
     </a>
 </div>
 
-## **Languages and Tools:**
+### **Languages and Tools :**
 <div>
   <p align="left"> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
