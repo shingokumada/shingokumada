@@ -32,6 +32,12 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="./images/icons8-javascript.gif" alt="javascript" width="35" height="35"/>
     </a>
+    <a href="https://www.ruby-lang.org/ja/" target="_blank" rel="noreferrer">
+      <img src="./images/icons8-ruby.svg" alt="ruby" width="35" height="35"/>
+    </a>
+    <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
+      <img src="./images/icons8-jekyll-a-simple,-blog-aware,-static-site-generator-for-personal,-project-96.png" alt="jekyll" width="35" height="35"/>
+    </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="./images/icons8-python.svg" alt="python" width="35" height="35"/>
     </a>
@@ -39,7 +45,7 @@
       <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" height="35"/>
     </a>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-      <img src="./images/icons8-rust-programming-language.gif" alt="rust" width="35" height="35"/>
+      <img src="./images/icons8-rust-programming-language.svg" alt="rust" width="35" height="35"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="./images/icons8-mysql.svg" alt="mysql" width="35" height="35"/>
@@ -61,6 +67,9 @@
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img src="./images/icons8-docker.svg" alt="docker" width="35" height="35"/>
+    </a>
+    <a href="https://kubernetes.io/ja/" target="_blank" rel="noreferrer">
+      <img src="./images/icons8-kubernetes.svg" alt="docker" width="35" height="35"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="./images/icons8-git.svg" alt="git" width="35" height="35"/>
