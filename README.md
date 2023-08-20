@@ -7,13 +7,13 @@
 
 <div>
     <a href="https://twitter.com/shingo_kumada" target="blank">
-      <img align="center" src="./images/icons8-twitterx .svg" alt="shingo_kumada" height="40" width="40" />
+      <img align="center" src="./images/icons8-twitterx .svg" alt="shingo_kumada" height="35" width="35" />
     </a>
     <a href="https://qiita.com/shingo-kumada" target="blank">
-      <img align="center" src="images/qiita.png" alt="shingo-kumada" height="40" width="40" />
+      <img align="center" src="images/qiita.png" alt="shingo-kumada" height="35" width="35" />
     </a>
     <a href="https://ja.stackoverflow.com/users/58839/shingokumada" target="blank">
-      <img align="center" src="./images/icons8-stack-overflow.svg" alt="58839" height="40" width="40" />
+      <img align="center" src="./images/icons8-stack-overflow.svg" alt="58839" height="35" width="35" />
     </a>
 </div>
 
@@ -21,54 +21,54 @@
 <div>
   <p align="left"> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="./images/icons8-css.svg" alt="css3" width="40" height="40"/>
+      <img src="./images/icons8-css.svg" alt="css3" width="35" height="35"/>
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="./images/icons8-html.svg" alt="html5" width="40" height="40"/>
+      <img src="./images/icons8-html.svg" alt="html5" width="35" height="35"/>
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="./images/icons8-bootstrap.svg" alt="bootstrap" width="40" height="40"/>
+      <img src="./images/icons8-bootstrap.svg" alt="bootstrap" width="35" height="35"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="./images/icons8-javascript.gif" alt="javascript" width="40" height="40"/>
+      <img src="./images/icons8-javascript.gif" alt="javascript" width="35" height="35"/>
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="./images/icons8-python.svg" alt="python" width="40" height="40"/>
+      <img src="./images/icons8-python.svg" alt="python" width="35" height="35"/>
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" height="35"/>
     </a>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-      <img src="./images/icons8-rust-programming-language.gif" alt="rust" width="40" height="40"/>
+      <img src="./images/icons8-rust-programming-language.gif" alt="rust" width="35" height="35"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="./images/icons8-mysql.svg" alt="mysql" width="40" height="40"/>
+      <img src="./images/icons8-mysql.svg" alt="mysql" width="35" height="35"/>
     </a>
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-      <img src="./images/icons8-nginx.svg" alt="nginx" width="40" height="40"/>
+      <img src="./images/icons8-nginx.svg" alt="nginx" width="35" height="35"/>
     </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-      <img src="./images/icons8-amazon-aws-64.png" alt="aws" width="40" height="40" /> 
+      <img src="./images/icons8-amazon-aws-64.png" alt="aws" width="35" height="35" /> 
     </a> 
     <a href="https://cloud.google.com/gcp/" target="_blank" rel="noreferrer">
-      <img src="./images/icons8-google-cloud.svg" alt="aws" width="40" height="40" /> 
+      <img src="./images/icons8-google-cloud.svg" alt="aws" width="35" height="35" /> 
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="./images/icons8-linux.gif" alt="linux" width="40" height="40" />
+      <img src="./images/icons8-linux.gif" alt="linux" width="35" height="35" />
     </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-      <img src="./images/icons8-bash.svg" alt="bash" width ="40" height="40"/>
+      <img src="./images/icons8-bash.svg" alt="bash" width ="35" height="35"/>
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="./images/icons8-docker.svg" alt="docker" width="40" height="40"/>
+      <img src="./images/icons8-docker.svg" alt="docker" width="35" height="35"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="./images/icons8-git.svg" alt="git" width="40" height="40"/>
+      <img src="./images/icons8-git.svg" alt="git" width="35" height="35"/>
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
-      <img src="./images/icons8-postman-api.svg" alt="postman" width="40" height="40"/>
+      <img src="./images/icons8-postman-api.svg" alt="postman" width="35" height="35"/>
     </a>
   </p>
 </div>
 
-<a href="https://icons8.jp/"><img width="5%" src="./images/icons8.svg" /></a>**[Icons by Icons8](https://icons8.jp/)**
+<a href="https://icons8.jp/"><img width="3%" src="./images/icons8.svg" /></a>[Icons by Icons8](https://icons8.jp/)
