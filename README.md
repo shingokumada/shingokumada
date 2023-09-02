@@ -56,9 +56,6 @@
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
       <img src="./images/icons8-amazon-aws-64.png" alt="aws" width="35" height="35" /> 
     </a> 
-    <a href="https://cloud.google.com/gcp/" target="_blank" rel="noreferrer">
-      <img src="./images/icons8-google-cloud.svg" alt="aws" width="35" height="35" /> 
-    </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
       <img src="./images/icons8-linux.gif" alt="linux" width="35" height="35" />
     </a>
