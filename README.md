@@ -5,7 +5,7 @@
 
 <br>
 
-### **Connect with me :**
+## **Connect with me**
 
 <div>
     <a href="https://twitter.com/shingo_kumada" target="blank">
@@ -21,7 +21,7 @@
 
 <br>
 
-### **Languages and Tools :**
+## **Languages and Tools**
 <div>
   <p align="left"> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
