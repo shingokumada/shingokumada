@@ -1,9 +1,10 @@
 ## **Hi there** <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a>
 
-- 🔭 &nbsp;**I'm studying to become an engineer from October 2022.**:
+- 🔭 &nbsp;**I'm studying to become an engineer from October 2022.**
+  
 - 🌱 &nbsp;**I am studying programming while helping my parents' farm in Fukushima.**
--  **Please check out my technical blog if you'd like.**
-**https://shingo-github-til.com**
+  
+-  **Please check out my technical blog if you'd like. https://shingo-github-til.com**
 
 <br>
 
