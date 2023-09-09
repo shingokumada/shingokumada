@@ -3,6 +3,8 @@
 - 🔭 &nbsp;**I'm studying to become an engineer from October 2022** :wink:
 - 🌱 &nbsp;**I am studying programming while helping my parents' farm in Fukushima.**
 
+<br>
+
 ### **Connect with me :**
 
 <div>
@@ -16,6 +18,8 @@
       <img align="center" src="./images/icons8-stack-overflow.svg" alt="58839" height="35" width="35" />
     </a>
 </div>
+
+<br>
 
 ### **Languages and Tools :**
 <div>
