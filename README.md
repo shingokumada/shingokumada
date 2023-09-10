@@ -49,9 +49,6 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="./images/icons8-python.svg" alt="python" width="35" height="35"/>
     </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" height="35"/>
-    </a>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
       <img src="./images/icons8-rust-programming-language.svg" alt="rust" width="35" height="35"/>
     </a>
