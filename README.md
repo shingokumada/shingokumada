@@ -4,8 +4,6 @@
   
 - **I am studying programming while helping my parents' farm in Fukushima.**
 
-<br>
-
 ## **Connect with me**
 
 <div>
