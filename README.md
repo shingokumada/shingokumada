@@ -77,5 +77,3 @@
     </a>
   </p>
 </div>
-
-**[Icons by Icons8](https://icons8.jp/)**
