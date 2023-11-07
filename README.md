@@ -1,4 +1,4 @@
-## **Hi there** <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a>
+## **Hi there**
 
 - **I'm studying to become an engineer from October 2022.**
   
@@ -7,3 +7,5 @@
 <br>
 
 ## **Languages and Tools**
+
+****
