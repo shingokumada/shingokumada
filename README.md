@@ -8,4 +8,4 @@
 
 ## **Languages and Tools**
 
-****
+**I use a photo from [Icons8](https://icons8.com) for the profile picture.**
