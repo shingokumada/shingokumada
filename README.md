@@ -6,8 +6,4 @@
 
 <br>
 
-## **Languages and Tools**
-
-<br>
-
 **I use a photo from [Icons8](https://icons8.com) for the profile picture.**
