@@ -1,8 +1,8 @@
 ## **Hi there**
-
-- **I'm studying to become an engineer from October 2022.**
   
 - **I am studying programming while helping my parents' farm in Fukushima.**
+
+- **If you would like to contact me via email, please email me with your public key.**
 
 <br>
 
