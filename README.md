@@ -1,6 +1,6 @@
 ### **Hi there 🖐**
 
-**I live in a rural area deep in the mountains**
+**I live in a rural area deep in the mountains.**
 
 **I'm currently researching delicious and easy dishes that can be made in a rice cooker.**
 
