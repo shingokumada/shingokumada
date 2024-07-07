@@ -4,8 +4,6 @@
 
 <br>
 
-[ My Projects List ]
-
 <p align="center"><b>[ My Projects List ]</b></p>
 
 <p align="center"><a href="https://shingokumada.github.io/decimal-to-binary/"><b>cs</b></a></p>
