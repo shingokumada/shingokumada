@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="center"><b>My Projects List</b></p>
+<p align="center"><b>[ My Projects List ]</b></p>
 
 <p align="center"><a href="https://shingokumada.github.io/decimal-to-binary/"><b>cs</b></a></p>
 
@@ -12,7 +12,7 @@
 
 <br>
 
-<p align="center"><b>Hobby Activities</b></p>
+<p align="center"><b>[ Hobby Activities ]</b></p>
 
 <p align="center"><a href="https://youtube.com/@user-nr5ck5yt8c?feature=shared)/"><b>YouTube</b></a></p>
 
