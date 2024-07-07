@@ -1,4 +1,6 @@
-![background](png/background.ping)
+<p align="center">
+    <img src="png/background.png" />
+</p>
 
 ## Hi 🖐
 
