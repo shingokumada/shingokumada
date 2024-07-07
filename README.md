@@ -2,6 +2,8 @@
 
 - **[decimal-to-binary](https://shingokumada.github.io/decimal-to-binary/)**
 
+- **[.dotfiles](https://shingokumada.github.io/.dotfiles/)**
+
 </br>
 
 ## **Hobby Activities**
