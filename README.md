@@ -2,13 +2,13 @@
     <img src="png/background.png" />
 </p>
 
-### **My Projects List**
+**My Projects List**
 
 - **[decimal-to-binary](https://shingokumada.github.io/decimal-to-binary/)**
 
 - **[.dotfiles](https://shingokumada.github.io/.dotfiles/)**
 
-### **Hobby Activities**
+**Hobby Activities**
 
 - **I am posting nature scenes on [YouTube](https://youtube.com/@user-nr5ck5yt8c?feature=shared).** 
 
