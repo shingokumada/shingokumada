@@ -4,7 +4,7 @@
 
 ## **My Projects List**
 
-- ### **[cs](https://shingokumada.github.io/decimal-to-binary)**
+- ### **[cs](https://shingokumada.github.io/cs/)**
 
 - ### **[dotfiles](https://shingokumada.github.io/.dotfiles)**
 
