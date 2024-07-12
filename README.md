@@ -6,7 +6,7 @@
 
 - ### **[cs](https://shingokumada.github.io/cs/)**
 
-- ### **[.dotfiles](https://shingokumada.github.io/.dotfiles/)**
+- ### **[.dotfiles](https://github.com/shingokumada/.dotfiles)**
 
 ## **Hobby Activities**
 
