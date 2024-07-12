@@ -4,7 +4,7 @@
 
 ## **My Projects List**
 
-- ### **[cs](https://shingokumada.github.io/cs/)**
+- ### **[cs](https://github.com/shingokumada/cs)**
 
 - ### **[.dotfiles](https://github.com/shingokumada/.dotfiles)**
 
