@@ -21,7 +21,3 @@
 - <a target="_blank" href="https://cookpad.com"><img style="border: 0px; vertical-align: middle;" src="https://img3.cookpad.com/image/link/cpicon.gif" /></a> <a style="color:#7d940a;font-weight:600;" target="_blank" href="https://cookpad.com/recipe/7876531">**potato chips by sngkmd**</a>
 
 -  <a target="_blank" href="https://cookpad.com"><img style="border: 0px; vertical-align: middle;" src="https://img3.cookpad.com/image/link/cpicon.gif" /></a> <a style="color:#7d940a;font-weight:600;" target="_blank" href="https://cookpad.com/recipe/7876528">**consommé soup by sngkmd**</a>
-
--  <a target="_blank" href="https://cookpad.com"><img style="border: 0px; vertical-align: middle;" src="https://img3.cookpad.com/image/link/cpicon.gif" /></a> <a style="color:#7d940a;font-weight:600;" target="_blank" href="https://cookpad.com/recipe/7876532">**Onion soup by sngkmd**</a>
-
--  <a target="_blank" href="https://cookpad.com"><img style="border: 0px; vertical-align: middle;" src="https://img3.cookpad.com/image/link/cpicon.gif" /></a> <a style="color:#7d940a;font-weight:600;" target="_blank" href="https://cookpad.com/recipe/7876530">**Roasted zucchini by sngkmd**</a>
